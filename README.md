@@ -8,6 +8,9 @@ My abilities and interests are demonstrated on my Github page. You'll find a ran
 
 I'm eager to work with a group where I can share my knowledge, discover new things, and advance the cause. So please don't hesitate to get in contact if you're seeking a motivated and skilled intern who's eager to take on new challenges. Together, let's do something fantastic!
 
-[LinkedIn] (https://www.linkedin.com/in/heitor-ara%C3%BAjo-664205a5/)
+<a href="https://www.linkedin.com/in/heitor-ara%C3%BAjo-664205a5/">
+  <img src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="LinkedIn" width="50">
+</a>
+
 
 
