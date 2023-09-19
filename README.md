@@ -7,3 +7,5 @@ I'm looking forward to finding an internship position where I can use my knowled
 My abilities and interests are demonstrated on my Github page. You'll find a range of projects that show my proficiency in a number of programming languages, including Python, MySQL, and C. I've worked on tasks including developing websites, designing machine learning models, and doing data analysis.
 
 I'm eager to work with a group where I can share my knowledge, discover new things, and advance the cause. So please don't hesitate to get in contact if you're seeking a motivated and skilled intern who's eager to take on new challenges. Together, let's do something fantastic!
+
+https://www.linkedin.com/in/heitor-ara%C3%BAjo-664205a5/
